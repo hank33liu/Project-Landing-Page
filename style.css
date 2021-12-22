@@ -49,7 +49,7 @@ a:link {
 .one {
     display: flex;
     flex-direction: column;
-    flex: 0.9 1 auto;
+    flex: 1.2 1 auto;
     align-items: center;
     background-color: #1F2937;
 }
@@ -59,7 +59,7 @@ a:link {
     flex-direction: column;
     width: 1000px;
     gap: 96px;
-    margin-top: 25px;
+    margin: 25px 0;
 }
 
 .hero {
@@ -101,7 +101,7 @@ a:link {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    flex: 0.7 0 auto;
+    flex: 0.7 1 auto;
 }
 
 .two .container {
@@ -109,6 +109,7 @@ a:link {
     flex-direction: column;
     align-items: center;
     width: 850px;
+    margin: 25px 0;
 }
 
 .two .secondary {
@@ -142,7 +143,7 @@ a:link {
 .three {
     display: flex;
     flex-direction: column;
-    flex: 1.1 0 auto;
+    flex: 1.1 1 auto;
     justify-content: center;
     align-items: center;
     background-color: #e5e7eb;
@@ -152,6 +153,7 @@ a:link {
     display: flex;
     flex-direction: column;
     width: 780px;
+    margin: 25px 0;
 
 }
 
@@ -171,7 +173,7 @@ a:link {
 
 .four {
     display: flex;
-    flex: 1 0 auto;
+    flex: 1 1 auto;
     justify-content: center;
     align-items: center;
 }
